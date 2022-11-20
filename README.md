@@ -22,6 +22,6 @@
 # Команда разработки:
 Дмитрий(Zasenko) – Автор идеи, руководитель проекта, базы данных, Api
 
-Эдуард – AboutAppView, 
+Эдуард(Eduard-2021) – AboutAppView, 
 
 Андрей(dronchekk) - NetworkServices
