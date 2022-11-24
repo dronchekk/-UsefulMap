@@ -181,7 +181,6 @@
 				69685A08292D200D00694EF5 /* Models */,
 				69685A03292D1FC000694EF5 /* Coordinator */,
 				6961FD59292A3B8300814BCA /* UsefulMapApp.swift */,
-				696859FC292D1ED800694EF5 /* AdditionalMethodsStructsAndViews */,
 				6961FD5D292A3B8500814BCA /* Assets.xcassets */,
 				6961FD5F292A3B8500814BCA /* Preview Content */,
 			);
@@ -218,6 +217,7 @@
 			isa = PBXGroup;
 			children = (
 				69685A09292D200D00694EF5 /* ViewModels */,
+				696859FC292D1ED800694EF5 /* AdditionalMethodsStructsAndViews */,
 				69685A0D292D200D00694EF5 /* AppinfoViewModel.swift */,
 				69685A0E292D200D00694EF5 /* GlobalProperties.swift */,
 			);
