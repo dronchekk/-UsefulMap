@@ -84,8 +84,6 @@
 		6961FD4D292A3B8300814BCA = {
 			isa = PBXGroup;
 			children = (
-				69685A832930BE7500694EF5 /* NetworkLayer */,
-				69685A772930BE7500694EF5 /* NetworkLayerModels */,
 				6961FD58292A3B8300814BCA /* UsefulMap */,
 				6961FD57292A3B8300814BCA /* Products */,
 			);
@@ -103,6 +101,8 @@
 			isa = PBXGroup;
 			children = (
 				696859F9292B9E6600694EF5 /* Info.plist */,
+				69685A832930BE7500694EF5 /* NetworkLayer */,
+				69685A772930BE7500694EF5 /* NetworkLayerModels */,
 				69685A14292D202100694EF5 /* Views */,
 				69685A08292D200D00694EF5 /* Models */,
 				69685A03292D1FC000694EF5 /* Coordinator */,
